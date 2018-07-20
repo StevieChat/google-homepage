@@ -30,7 +30,7 @@
 }
 
 .smallletters{
-    font-size: 250%;
+    font-size: 300%;
     position: relative;
     top: 10px;
 }
@@ -52,6 +52,8 @@
     position: relative;
     top: 175px;
     left: 350px;
+    font-family: arial, sans-serif;
+    font-weight: bold;
 }
 
 p{
