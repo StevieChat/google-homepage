@@ -32,7 +32,7 @@
 #searchbox{
     width: 350px;
     position: relative;
-    right: 50px;
+    right: 70px;
 }
 
 .smallletters{
@@ -61,9 +61,14 @@
 .google{
     position: relative;
     top: 175px;
-    left: 350px;
+    left: 325px;
     font-family: arial, sans-serif;
     font-weight: bold;
+}
+
+.buttonsection{
+    position: relative;
+    top: 25px;
 }
 
 .footer{
