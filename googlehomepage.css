@@ -3,3 +3,21 @@
     height: 100px;
     width: 100px;
 }
+
+#elipses{
+    height: 23px;
+    margin: 3px 5px 3px 8px;
+}
+
+.inline{
+    display: inline-block;
+}
+
+.floatright{
+    float: right;
+}
+
+p{
+    font-family: arial, sans-serif;
+    margin: 5px;
+}
