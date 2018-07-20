@@ -29,6 +29,13 @@
     color: red;
 }
 
+#searchbox{
+    width: 350px;
+    height: 100px;
+    position: relative;
+    right: 50px;
+}
+
 .smallletters{
     font-size: 300%;
     position: relative;
