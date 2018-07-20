@@ -1,10 +1,41 @@
-#dylansdiv{
-    background-color: blue;
-    height: 100px;
-    width: 100px;
+#userimage{
+    height: 35px;
+    position: relative;
+    bottom: 6px;
 }
 
-#elipses{
+#firstg{
+    color: blue;
+    font-size: 500%;
+}
+
+#firsto{
+    color:red;
+}
+
+#secondo{
+    color: yellow;
+}
+
+#secondg{
+    color: blue;
+}
+
+#l{
+    color: green;
+}
+
+#e{
+    color: red;
+}
+
+.smallletters{
+    font-size: 250%;
+    position: relative;
+    top: 10px;
+}
+
+.topbar-image{
     height: 23px;
     margin: 3px 5px 3px 8px;
 }
@@ -17,7 +48,17 @@
     float: right;
 }
 
+.google{
+    position: relative;
+    top: 175px;
+    left: 350px;
+}
+
 p{
     font-family: arial, sans-serif;
     margin: 5px;
+}
+
+p:hover{
+    text-decoration: underline;
 }
